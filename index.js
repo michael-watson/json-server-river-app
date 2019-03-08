@@ -21,5 +21,3 @@ server.use((req, res, next) => {
 server.listen(4001, () => {
     console.log('JSON Server is running')
   });
-
-console.log(server._router.stack);
