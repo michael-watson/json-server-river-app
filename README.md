@@ -11,3 +11,21 @@ We have some custom routing so you'll want to just run the `index.js` file in wh
 ```sh
 node index.js
 ```
+
+## API shape
+
+### Available endpoints
+
+* http://localhost:4001/favoriteSites
+
+### Models
+
+**FavoriteSites**
+```
+{
+    "id": "testemail@test.com-USGS:11454000",
+    "email": "testemail@test.com",
+    "siteCode": "USGS:11454000",
+    "createdAt": 1551712152050
+  }
+```
