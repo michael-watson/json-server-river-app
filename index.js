@@ -19,7 +19,5 @@ server.use((req, res, next) => {
   server.use(router);
 
 server.listen(4001, () => {
-    console.log('JSON Server is running')
+    console.log('JSON Server is running at http://localhost:4001')
   });
-
-console.log(server._router.stack);
