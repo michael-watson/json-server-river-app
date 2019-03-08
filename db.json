@@ -1,0 +1,22 @@
+{
+  "favoriteSites": [
+    {
+      "id": "testemail@test.com-USGS:11454000",
+      "email": "testemail@test.com",
+      "siteCode": "USGS:11454000",
+      "createdAt": 1551712152050
+    },
+    {
+      "id": "testemail@test.com-USGS:10337500",
+      "email": "testemail@test.com",
+      "siteCode": "USGS:10337500",
+      "createdAt": 1551712152050
+    },
+    {
+      "id": "testemail@test.com-USGS:10338000",
+      "email": "testemail@test.com",
+      "siteCode": "USGS:10338000",
+      "createdAt": 1551712152050
+    }
+  ]
+}
