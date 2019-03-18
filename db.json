@@ -17,6 +17,12 @@
       "email": "testemail@test.com",
       "siteCode": "USGS:10338000",
       "createdAt": 1551712152050
+    },
+    {
+      "siteCode": "USGS:09427520",
+      "email": "michaelwatson93@gmail.com",
+      "createdAt": 1552031349592,
+      "id": "michaelwatson93@gmail.com-USGS:09427520"
     }
   ]
 }
